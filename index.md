@@ -42,10 +42,34 @@ Did anyone read it?
 
 ---
 
+<!-- _class: center -->
+
+## How do people read on the web?
+
+---
+
+<!-- _class: center -->
+
+> They don’t.
+
+79% scanned. 16% read word by word.
+
+<small>Jakob Nielsen, [Nielsen Norman Group](https://www.nngroup.com/articles/how-users-read-on-the-web/), 1997</small>
+
+---
+
+## This isn’t an AI thing
+
+We read about 20% of the words on a page.
+
+<small>Nielsen Norman Group, [2008](https://www.nngroup.com/articles/how-little-do-users-read/). Still true in [2020](https://www.nngroup.com/articles/how-people-read-online/).</small>
+
+---
+
 ## What we’ll cover
 
 - Patterns nobody chose
-- Copy that passed every check
+- A dialog and an email
 - What to do about it
 
 ---
@@ -73,30 +97,6 @@ Or is it habit?
 `'So ' instead of 'As a result, '`
 
 <small>`Apify.SentenceStarts`, found while linting these slides.</small>
-
----
-
-<!-- _class: center -->
-
-## How do people read on the web?
-
----
-
-<!-- _class: center -->
-
-> They don’t.
-
-79% scanned. 16% read word by word.
-
-<small>Jakob Nielsen, [Nielsen Norman Group](https://www.nngroup.com/articles/how-users-read-on-the-web/), 1997</small>
-
----
-
-## This isn’t an AI thing
-
-We read about 20% of the words on a page.
-
-<small>Nielsen Norman Group, [2008](https://www.nngroup.com/articles/how-little-do-users-read/). Still true in [2020](https://www.nngroup.com/articles/how-people-read-online/).</small>
 
 ---
 
