@@ -96,7 +96,7 @@ Or is it habit?
 
 `'So ' instead of 'As a result, '`
 
-<small>`Apify.SentenceStarts`, found while linting these slides.</small>
+<small>`Apify.SentenceStarts`</small>
 
 ---
 
@@ -105,8 +105,6 @@ Or is it habit?
 ## Slop creep
 
 “will be,” “cannot,” “right away,” “please,” “thank you for your patience,” “, so,” and “—”
-
-<small>From my apify-core PR reviews.</small>
 
 ---
 
@@ -119,7 +117,7 @@ Or is it habit?
 | Repeats the heading | No |
 | Promises the code can’t keep | No |
 
-<small>From my apify-core PR reviews. Only a reader catches the last two.</small>
+<small>From my apify-core PR reviews.</small>
 
 ---
 
@@ -155,7 +153,7 @@ He couldn’t tell when they fit.
 
 > Since no paying users, the monthly change limit doesn’t apply.
 
-<small>My lint PR wrote this. It passed every rule. A reviewer caught it.</small>
+<small>My lint PR wrote this. A reviewer caught it.</small>
 
 ---
 
@@ -373,7 +371,6 @@ In your writing. In your agent’s.
 
 ## Thanks
 
-**Did anyone README?**
 Justin Gagne, `justin.gagne@apify.com`
 
 <small>Apify Vale styles: [github.com/apify/vale-rules](https://github.com/apify/vale-rules)</small>
