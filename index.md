@@ -104,6 +104,8 @@ Or is it habit?
 
 ## Slop creep
 
+delve, leverage, seamless, robust, “it’s not X, it’s Y,” “, so,” and — — —
+
 ---
 
 ## Nearly 300 copy fixes
