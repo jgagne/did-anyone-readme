@@ -61,3 +61,27 @@ The line under “Consistent mechanics. Not consistent thinking.” It made way 
 ```
 
 “Old patterns, amplified” already shows patterns moving, and the “So” example opens the talk.
+
+### This deck uses fragments too
+
+```markdown
+## This deck uses fragments too
+
+> Glad? Aborted.
+
+> Consistent mechanics. Not consistent thinking.
+
+<small>I chose these. That’s the difference.</small>
+```
+
+Quoting the deck’s own slides in blockquotes made them look like more bad examples. Replaced with a plain statement.
+
+### Fragments aren’t the problem
+
+```markdown
+## Fragments aren’t the problem
+
+This deck is full of them. On purpose.
+```
+
+Followed “Glad? Aborted.”, which is about tone, not fragments, so it felt disconnected. The caption on “Old patterns, amplified” already says none of these marks is wrong.

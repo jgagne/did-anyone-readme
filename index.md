@@ -257,15 +257,6 @@ Why make them feel guilty?
 
 ## Glad?<br>Aborted.
 
----
-
-## This deck does it too
-
-> Glad? Aborted.
-
-> Consistent mechanics. Not consistent thinking.
-
-<small>I chose these. That’s the difference.</small>
 
 ---
 
