@@ -110,7 +110,7 @@ Or is it habit?
 
 ## Nearly 300 copy fixes
 
-| Pattern | Can a linter catch it? |
+| Pattern | Would our checks catch it? |
 | --- | --- |
 | “cannot” instead of “can’t” | Yes |
 | Dashes | Yes |
@@ -149,7 +149,7 @@ He couldn’t tell when they fit.
 
 ---
 
-## The linter bites back
+## My own rule bit back
 
 > Since no paying users, the monthly change limit doesn’t apply.
 
@@ -159,10 +159,10 @@ He couldn’t tell when they fit.
 
 ## Old patterns, amplified
 
-| Mark | Example | Vale flags it? |
+| Mark | Example | Would our checks catch it? |
 | --- | --- | --- |
 | Em dash | It’s fast — and it’s free. | Yes |
-| Mid-sentence colon | It’s simple: fast and free. | No |
+| Mid-sentence colon | It’s simple: fast and free. | Sometimes |
 | Full stop | Fast. Free. Yours. | No |
 
 <small>None of these marks is wrong. Overuse is what’s new.</small>
@@ -322,6 +322,8 @@ Why make them feel guilty?
 <!-- _class: center -->
 
 # Check the output.<br>Even a sample.
+
+Start with errors, emails, and anything that can’t be undone.
 
 ---
 
