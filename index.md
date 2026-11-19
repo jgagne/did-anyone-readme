@@ -66,11 +66,11 @@ We read about 20% of the words on a page.
 
 ---
 
-## What we’ll cover
+## `README.md`
 
-- Patterns nobody chose
-- A dialog and an email
-- What to do about it
+- The patterns that creep in
+- A dialog we’re fixing, and an email we haven’t yet
+- How to catch the next one
 
 ---
 
