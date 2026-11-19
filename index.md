@@ -58,7 +58,7 @@ Did anyone read it?
 
 ---
 
-## This isn’t an AI thing
+## Skimming isn’t new
 
 We read about 20% of the words on a page.
 
@@ -104,7 +104,9 @@ Or is it habit?
 
 ## Slop creep
 
-delve, leverage, seamless, robust, “it’s not X, it’s Y,” “, so,” and — — —
+“will be,” “cannot,” “right away,” “please,” “thank you for your patience,” “, so,” and “—”
+
+<small>From my apify-core PR reviews.</small>
 
 ---
 
@@ -144,6 +146,8 @@ He couldn’t tell when they fit.
 | Before | After |
 | --- | --- |
 | We have bad news: there is no API endpoint at this URL. Did you specify it correctly? | This URL isn’t an API endpoint. |
+
+<small>Lead with the fact.</small>
 
 ---
 
