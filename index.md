@@ -213,7 +213,7 @@ Why make them feel guilty?
 
 ---
 
-## And when it’s done
+## Thanks, not guilt
 
 **Before**
 
@@ -222,8 +222,6 @@ Why make them feel guilty?
 **After**
 
 > Account deleted. Thanks for using Apify.
-
-<small>Thanks, not guilt.</small>
 
 ---
 
