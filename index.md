@@ -195,7 +195,7 @@ Someone is leaving. What do we say?
 
 ## We’re the adult in the room
 
-Most people delete it the day they sign up.
+Many people delete it soon after signing up.
 
 Why make them feel guilty?
 
@@ -335,7 +335,7 @@ Start with errors, emails, and anything that can’t be undone.
 - **readme-write**
 - **readme-review**
 
-<small>Pre-release. In `departments/marketing/.claude/skills/`.</small>
+<small>Pre-release, Apify internal. In `departments/marketing/.claude/skills/`.</small>
 
 ---
 

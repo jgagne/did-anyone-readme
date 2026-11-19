@@ -85,3 +85,17 @@ This deck is full of them. On purpose.
 ```
 
 Followed “Glad? Aborted.”, which is about tone, not fragments, so it felt disconnected. The caption on “Old patterns, amplified” already says none of these marks is wrong.
+
+### And when it’s done (toast screenshot)
+
+```markdown
+<!-- _class: screenshot -->
+
+## And when it’s done
+
+![h:400 Toast: “Account deleted. Thanks for using Apify.”](img/delete-account-toast.jpg)
+
+<small>Thanks, not guilt.</small>
+```
+
+Shows the toast in context on the Settings page. Replaced by the “Thanks, not guilt” text slide, since the toast is a small strip in a full-page screenshot. A tighter screenshot would bring it back. The image stays in `img/`.
