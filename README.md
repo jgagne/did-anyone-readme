@@ -1,6 +1,6 @@
 # Did anyone README?
 
-Patterns creep into human and agent writing and pass every check. Read the output, even a sample.
+Language patterns creep into human and agent writing and pass every check. Read the output, even a sample.
 
 Presented at Apify’s product offsite on November 19, 2026.
 
