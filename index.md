@@ -239,7 +239,7 @@ Why make them feel guilty?
 
 <!-- _class: center -->
 
-## It passed
+## It passed every check
 
 ---
 
@@ -248,6 +248,8 @@ Why make them feel guilty?
 ## The usage limit email
 
 ![w:1000 Email text: We’re glad you’re getting so much value from Apify. You’ve exceeded your free monthly platform usage, and all your running Actors have been aborted. Then an Upgrade button.](img/usage-email-glad.png)
+
+<small>Sent when a free account hits its monthly usage limit.</small>
 
 ---
 
