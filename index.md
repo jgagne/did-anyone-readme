@@ -223,6 +223,8 @@ Why make them feel guilty?
 
 > Account deleted. Thanks for using Apify.
 
+<small>The confirmation after deletion.</small>
+
 ---
 
 ## Did the screen reader README?
