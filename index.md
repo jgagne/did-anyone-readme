@@ -149,11 +149,11 @@ He couldn’t tell when they fit.
 
 ---
 
-## My own rule bit back
+## My own rule backfired
 
 > Since no paying users, the monthly change limit doesn’t apply.
 
-<small>My lint PR wrote this. A reviewer caught it.</small>
+<small>My lint PR wrote this. A reviewer caught it. Thank you.</small>
 
 ---
 
