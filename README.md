@@ -30,6 +30,6 @@ npx @marp-team/marp-cli plain-language.md -o plain-language.pdf
 
 ## Resources
 
-- [Graveyard](graveyard.md): slides cut to fit 15 minutes
+- [Graveyard](graveyard.md) (cut slides)
 
 Built with [Marp](https://marp.app).

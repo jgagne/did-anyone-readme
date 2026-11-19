@@ -32,6 +32,24 @@ Justin Gagne, Senior UX Writer<br>
 
 ---
 
+## Why this talk?
+
+More of our copy comes from agents.
+
+It passes every check.
+
+Did anyone read it?
+
+---
+
+## What we’ll cover
+
+- Patterns nobody chose
+- Copy that passed every check
+- What to do about it
+
+---
+
 <!-- _class: center -->
 
 ## Did you choose that word?
