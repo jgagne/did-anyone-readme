@@ -368,8 +368,8 @@ In your writing. In your agent’s.
 
 ---
 
-## Thanks
+## Thanks for reading
 
-Justin Gagne, `justin.gagne@apify.com`
+@Justin (on Slack)
 
-<small>Apify Vale styles: [github.com/apify/vale-rules](https://github.com/apify/vale-rules)</small>
+<small>Slides and cheat sheet: [github.com/jgagne/did-anyone-readme](https://github.com/jgagne/did-anyone-readme)</small>
