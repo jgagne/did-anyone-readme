@@ -25,4 +25,4 @@ style: |
 | Check the reading level: | Grade 12 and up | Under grade 9 |
 | Read it before it ships: | It passed. | I read it. Even a sample. |
 
-<small>Ashley Bischoff, [Embracing plain language for better accessibility](https://www.handcoding.com/presentations/betteraccessibility/). Apify Vale styles: [github.com/apify/vale-rules](https://github.com/apify/vale-rules)</small>
+<small>Ashley Bischoff, [Embracing plain language for better accessibility](https://www.handcoding.com/presentations/betteraccessibility/). Reading level: [`Apify.Readability`](https://github.com/apify/vale-rules/blob/main/styles/Apify/Readability.yml) and [Vale readability](https://docs.vale.sh/checks/readability).</small>

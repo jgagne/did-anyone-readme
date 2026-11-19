@@ -61,17 +61,3 @@ The line under “Consistent mechanics. Not consistent thinking.” It made way 
 ```
 
 “Old patterns, amplified” already shows patterns moving, and the “So” example opens the talk.
-
-### And when it’s done
-
-```markdown
-<!-- _class: screenshot -->
-
-## And when it’s done
-
-![h:400 Toast: “Account deleted. Thanks for using Apify.”](img/delete-account-toast.jpg)
-
-<small>Personality belongs here, not in the warning.</small>
-```
-
-The dialog story is complete without it. The screenshot stays in `img/`.

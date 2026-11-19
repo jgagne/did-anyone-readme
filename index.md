@@ -88,7 +88,7 @@ Or is it habit?
 
 79% scanned. 16% read word by word.
 
-<small>Jakob Nielsen, [NN/g](https://www.nngroup.com/articles/how-users-read-on-the-web/), 1997</small>
+<small>Jakob Nielsen, [Nielsen Norman Group](https://www.nngroup.com/articles/how-users-read-on-the-web/), 1997</small>
 
 ---
 
@@ -96,7 +96,7 @@ Or is it habit?
 
 We read about 20% of the words on a page.
 
-<small>NN/g, [2008](https://www.nngroup.com/articles/how-little-do-users-read/). Still true in [2020](https://www.nngroup.com/articles/how-people-read-online/).</small>
+<small>Nielsen Norman Group, [2008](https://www.nngroup.com/articles/how-little-do-users-read/). Still true in [2020](https://www.nngroup.com/articles/how-people-read-online/).</small>
 
 ---
 
@@ -123,7 +123,7 @@ We read about 20% of the words on a page.
 
 He couldn’t tell when they fit.
 
-<small>After [Ashley Bischoff](https://www.handcoding.com/presentations/betteraccessibility/). [Data (Star Trek)](https://memory-alpha.fandom.com/wiki/Data), Memory Alpha.</small>
+<small>Adapted from [Ashley Bischoff](https://www.handcoding.com/presentations/betteraccessibility/). [Data (Star Trek)](https://memory-alpha.fandom.com/wiki/Data), Memory Alpha wiki.</small>
 
 ---
 
@@ -171,7 +171,7 @@ He couldn’t tell when they fit.
 
 > Clarity trumps consistency.
 
-<small>Steve Krug, <cite>Don’t Make Me Think</cite>, via [DOC](https://www.doc.cc/syntax/consistency)</small>
+<small>Steve Krug, <cite>Don’t Make Me Think</cite>, quoted in [DOC](https://www.doc.cc/syntax/consistency)</small>
 
 ---
 
@@ -206,6 +206,16 @@ Why make them feel guilty?
 ![h:440 New dialog: “Delete your account?”, bold “This can’t be undone.”, what goes offline and gets deleted, a confirm field, and Keep account and Delete account buttons](img/delete-account-after.png)
 
 <small>Say what happens. **Keep account** comes first.</small>
+
+---
+
+<!-- _class: screenshot -->
+
+## And when it’s done
+
+![h:400 Toast: “Account deleted. Thanks for using Apify.”](img/delete-account-toast.jpg)
+
+<small>Thanks, not guilt.</small>
 
 ---
 
@@ -263,7 +273,7 @@ Why make them feel guilty?
 
 > You’ve had a busy month and exceeded your free $5 monthly platform usage. We’ve stopped your Actors until your next cycle starts on December 1.
 
-<small>From my review on PR32352.</small>
+<small>From my review on PR #32352.</small>
 
 ---
 
@@ -275,7 +285,7 @@ Why make them feel guilty?
 
 ## We say we check less when we trust AI
 
-<small>319 knowledge workers. Lee et al., [CHI 2025](https://doi.org/10.1145/3706598.3713778).</small>
+<small>319 knowledge workers. Lee and colleagues, [CHI 2025](https://doi.org/10.1145/3706598.3713778).</small>
 
 ---
 
@@ -283,7 +293,7 @@ Why make them feel guilty?
 
 > It won’t do the work for you.
 
-<small>Ursula K. Le Guin, <cite>Words Are My Matter</cite>, via [A Working Library](https://aworkinglibrary.com/writing/against-disliteracy)</small>
+<small>Ursula K. Le Guin, <cite>Words Are My Matter</cite>, quoted in [A Working Library](https://aworkinglibrary.com/writing/against-disliteracy)</small>
 
 ---
 
@@ -345,7 +355,7 @@ Try them. Submit an issue. Slack me.
 | Check the reading level: | Grade 12 and up | Under grade 9 |
 | Read it before it ships: | It passed. | I read it. Even a sample. |
 
-<small>After [Ashley Bischoff](https://www.handcoding.com/presentations/betteraccessibility/)</small>
+<small>Adapted from [Ashley Bischoff](https://www.handcoding.com/presentations/betteraccessibility/). Reading level: [`Apify.Readability`](https://github.com/apify/vale-rules/blob/main/styles/Apify/Readability.yml).</small>
 
 ---
 
