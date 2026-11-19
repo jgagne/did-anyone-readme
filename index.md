@@ -44,7 +44,7 @@ Did anyone read it?
 
 <!-- _class: center -->
 
-## How do people read on the web?
+## How do people read on screens?
 
 ---
 
@@ -117,7 +117,7 @@ Or is it habit?
 | Repeats the heading | No |
 | Promises the code can’t keep | No |
 
-<small>From my apify-core PR reviews.</small>
+<small>From my PR reviews.</small>
 
 ---
 
@@ -213,11 +213,15 @@ Why make them feel guilty?
 
 ---
 
-<!-- _class: screenshot -->
-
 ## And when it’s done
 
-![h:400 Toast: “Account deleted. Thanks for using Apify.”](img/delete-account-toast.jpg)
+**Before**
+
+> Account deleted
+
+**After**
+
+> Account deleted. Thanks for using Apify.
 
 <small>Thanks, not guilt.</small>
 
