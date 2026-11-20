@@ -109,3 +109,15 @@ Shows the toast in context on the Settings page. Replaced by the “Thanks, not 
 ```
 
 “Share what you’re building” asks for engagement while someone’s work has stopped. Cutting the P.S. shows the “why is each sentence there?” test better than another rewrite.
+
+### Skill or neglect?
+
+```markdown
+## Skill or neglect?
+
+**Skill:** the agent narrows what you read.
+
+**Neglect:** the agent replaces the reading.
+```
+
+“Neglect” could make someone with a full review queue feel accused. Replaced with “Who’s doing the reading?”, which keeps the contrast without judging motives.

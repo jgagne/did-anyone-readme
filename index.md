@@ -68,6 +68,12 @@ AI output often ignores that.
 
 ---
 
+<!-- _class: center -->
+
+## Users skim. We need to read.
+
+---
+
 ## `README.md`
 
 - The patterns that creep in
@@ -197,7 +203,7 @@ Someone is leaving. What do we say?
 
 ---
 
-## We’re the adult in the room
+## Let’s be the adult in the room
 
 Many people delete it soon after signing up.
 
@@ -308,11 +314,11 @@ This email could set `skipMarketingFluff`.
 
 ---
 
-## Skill or neglect?
+## Who’s doing the reading?
 
-**Skill:** the agent narrows what you read.
+The agent can narrow what you read.
 
-**Neglect:** the agent replaces the reading.
+You still need to read it.
 
 ---
 
@@ -322,8 +328,8 @@ This email could set `skipMarketingFluff`.
 
 ## Two README skills to try
 
-- **readme-write**
-- **readme-review**
+- **readme-write:** drafts a README
+- **readme-review:** reviews one
 
 <small>Pre-release, Apify internal. In `departments/marketing/.claude/skills/`.</small>
 

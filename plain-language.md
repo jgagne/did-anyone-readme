@@ -2,7 +2,7 @@
 marp: true
 title: Did anyone README?
 author: Justin Gagne
-description: Plain language defaults, whoever or whatever wrote the draft.
+description: Plain language to start with, whoever or whatever wrote the draft.
 style: |
   section.small-table table {
     font-size: 0.625rem;
