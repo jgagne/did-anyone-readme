@@ -137,7 +137,7 @@ They don’t use contractions.
 
 Even Data from Star Trek couldn’t work out when to use them.
 
-<small>Adapted from [Ashley Bischoff](https://www.handcoding.com/presentations/betteraccessibility/). [Data (Star Trek)](https://memory-alpha.fandom.com/wiki/Data), Memory Alpha wiki.</small>
+<small>Adapted from [Ashley Bischoff](https://www.handcoding.com/presentations/betteraccessibility/). [Data](https://memory-alpha.fandom.com/wiki/Data), Memory Alpha wiki.</small>
 
 ---
 
