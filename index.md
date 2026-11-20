@@ -131,9 +131,11 @@ Not always wrong. Cut it, read it again, keep what you miss.
 
 ---
 
-## Even Star Trek’s android avoided contractions
+## Why do robots sound like robots?
 
-He couldn’t tell when they fit.
+They don’t use contractions.
+
+Even Data from Star Trek couldn’t work out when to use them.
 
 <small>Adapted from [Ashley Bischoff](https://www.handcoding.com/presentations/betteraccessibility/). [Data (Star Trek)](https://memory-alpha.fandom.com/wiki/Data), Memory Alpha wiki.</small>
 
