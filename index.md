@@ -62,7 +62,9 @@ Did anyone read it?
 
 We read about 20% of the words on a page.
 
-<small>Nielsen Norman Group, [2008](https://www.nngroup.com/articles/how-little-do-users-read/). Still true in [2020](https://www.nngroup.com/articles/how-people-read-online/).</small>
+AI output often ignores that.
+
+<small>Nielsen Norman Group: [1997](https://www.nngroup.com/articles/how-users-read-on-the-web/) → [2008](https://www.nngroup.com/articles/how-little-do-users-read/) → [2020](https://www.nngroup.com/articles/how-people-read-online/) → [2025](https://www.nngroup.com/articles/genai-write-for-the-web/)</small>
 
 ---
 
