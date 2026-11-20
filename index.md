@@ -108,7 +108,7 @@ Or is it habit?
 
 “will be,” “cannot,” “right away,” “please,” “thank you for your patience,” “, so,” and “—”
 
-Not wrong. Worth a second look.
+Not always wrong. Cut it, read it again, keep what you miss.
 
 ---
 
@@ -278,7 +278,7 @@ Why make them feel guilty?
 
 > You’ve used your free $5 of monthly platform usage, and we’ve stopped your running Actors. Your usage resets on December 1.
 
-<small>From my review on PR #32352.</small>
+<small>Adapted from my review on PR #32352.</small>
 
 ---
 
@@ -335,7 +335,7 @@ Try them. Submit an issue. Slack me.
 
 ---
 
-## Plain language, always
+## Plain language, please
 
 <!-- _class: small-table -->
 

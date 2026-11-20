@@ -2,7 +2,7 @@
 marp: true
 title: Did anyone README?
 author: Justin Gagne
-description: Plain language rules that always apply, whoever or whatever wrote the draft.
+description: Plain language defaults, whoever or whatever wrote the draft.
 style: |
   section.small-table table {
     font-size: 0.625rem;
@@ -12,7 +12,7 @@ style: |
 # PDF: npx @marp-team/marp-cli plain-language.md -o plain-language.pdf
 ---
 
-## Plain language, always
+## Plain language, please
 
 <!-- _class: small-table -->
 

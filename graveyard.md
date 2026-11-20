@@ -1,6 +1,6 @@
 # Graveyard
 
-Material cut from <cite>Did anyone README?</cite> before the product offsite on November 19, 2026, to fit 15 minutes.
+Material cut from <cite>Did anyone README?</cite> for time, clarity, or accuracy, before and after the product offsite on November 19, 2026.
 
 *Cut, don’t delete.*
 
@@ -28,7 +28,7 @@ A heading with nothing under it. The point lands when said out loud on the trust
 <small>`ApifyUI.AssumedEmotion` flags only the first.</small>
 ```
 
-“Glad? Aborted.” and “This deck does it too” already make the point. Better used for the Vale rule follow-up after the talk.
+“Glad? Aborted.” already makes the point. The rule gap is now being closed in the Apify Vale styles, with patterns for “glad you’re getting,” “bad news,” and “sad to see you go.”
 
 ### Everything starts to sound the same
 
