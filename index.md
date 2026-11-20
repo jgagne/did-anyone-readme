@@ -141,7 +141,7 @@ Even Data from Star Trek couldn’t work out when to use them.
 
 ---
 
-## Neither did our UI
+## Our UI didn’t use them either
 
 | Before | After |
 | --- | --- |
@@ -328,7 +328,7 @@ You still need to read it.
 
 ---
 
-## Two README skills to try
+## Practice on a README
 
 - **readme-write:** drafts a README
 - **readme-review:** reviews one
