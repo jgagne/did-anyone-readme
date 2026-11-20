@@ -99,3 +99,13 @@ Followed “Glad? Aborted.”, which is about tone, not fragments, so it felt di
 ```
 
 Shows the toast in context on the Settings page. Replaced by the “Thanks, not guilt” text slide, since the toast is a small strip in a full-page screenshot. A tighter screenshot would bring it back. The image stays in `img/`.
+
+### And the P.S. (rewrite)
+
+```markdown
+## And the P.S.
+
+> P.S. Get help and share what you’re building on our Discord server.
+```
+
+“Share what you’re building” asks for engagement while someone’s work has stopped. Cutting the P.S. shows the “why is each sentence there?” test better than another rewrite.

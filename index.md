@@ -60,11 +60,11 @@ Did anyone read it?
 
 ## Skimming isn’t new
 
-We read about 20% of the words on a page.
+About 20% of the words on an average page visit.
 
 AI output often ignores that.
 
-<small>Nielsen Norman Group: [1997](https://www.nngroup.com/articles/how-users-read-on-the-web/), [2008](https://www.nngroup.com/articles/how-little-do-users-read/), [2020](https://www.nngroup.com/articles/how-people-read-online/), and [2025](https://www.nngroup.com/articles/genai-write-for-the-web/)</small>
+<small>Nielsen Norman Group estimate from [2008](https://www.nngroup.com/articles/how-little-do-users-read/), restated in [2025](https://www.nngroup.com/articles/genai-write-for-the-web/). Scanning since [1997](https://www.nngroup.com/articles/how-users-read-on-the-web/), still in [2020](https://www.nngroup.com/articles/how-people-read-online/).</small>
 
 ---
 
@@ -107,6 +107,8 @@ Or is it habit?
 ## Slop creep
 
 “will be,” “cannot,” “right away,” “please,” “thank you for your patience,” “, so,” and “—”
+
+Not wrong. Worth a second look.
 
 ---
 
@@ -274,15 +276,15 @@ Why make them feel guilty?
 
 ## What it could say
 
-> You’ve had a busy month and exceeded your free $5 monthly platform usage. We’ve stopped your Actors until your next cycle starts on December 1.
+> You’ve used your free $5 of monthly platform usage, and we’ve stopped your running Actors. Your usage resets on December 1.
 
 <small>From my review on PR #32352.</small>
 
 ---
 
-## And the P.S.
+## And the P.S.? Cut it.
 
-> P.S. Get help and share what you’re building on our Discord server.
+This email could set `skipMarketingFluff`.
 
 ---
 
@@ -318,20 +320,6 @@ Why make them feel guilty?
 
 ---
 
-<!-- _class: center -->
-
-# Check the output.<br>Even a sample.
-
-Start with errors, emails, and anything that can’t be undone.
-
----
-
-<!-- _class: center -->
-
-# README.
-
----
-
 ## Two README skills to try
 
 - **readme-write**
@@ -341,7 +329,7 @@ Start with errors, emails, and anything that can’t be undone.
 
 ---
 
-## The skills help. You still README.
+## The skills help. You still read.
 
 Try them. Submit an issue. Slack me.
 
@@ -361,6 +349,20 @@ Try them. Submit an issue. Slack me.
 | Read it before it ships: | It passed. | I read it. Even a sample. |
 
 <small>Adapted from [Ashley Bischoff](https://www.handcoding.com/presentations/betteraccessibility/). Reading level: [`Apify.Readability`](https://github.com/apify/vale-rules/blob/main/styles/Apify/Readability.yml).</small>
+
+---
+
+<!-- _class: center -->
+
+# Check the output.<br>Even a sample.
+
+Start with errors, emails, and anything that can’t be undone.
+
+---
+
+<!-- _class: center -->
+
+# README.
 
 ---
 
